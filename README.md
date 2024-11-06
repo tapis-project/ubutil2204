@@ -4,10 +4,9 @@ Tapis Util Container based on Ubuntu 22.
 
 Adds some useful packages like Kubernetes.
 
-https://hub.docker.com/r/tapis/ubutil2204
+github: https://github.com/tapis-project/ubutil2204
 
+docker: https://hub.docker.com/r/tapis/ubutil2204
 
-
-https://github.com/tapis-project/ubutil2204
 
 
